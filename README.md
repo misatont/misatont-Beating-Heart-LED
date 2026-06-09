@@ -10,7 +10,7 @@ Beginner friendly tutorial on how to create a Beating Heart LED! <3 @misaproject
 - 1x 10uF capacitor
 - 1x 68kOhm resistor
 - 1x 10kOhm resistor
-- 1x push button
+- 1x push button or on/off button
 - 1x 9V battery + snap connector
 - Soldering equipment
 - Breadboard (optional, for testing)
